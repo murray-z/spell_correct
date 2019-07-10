@@ -9,7 +9,7 @@
 - 参考[How to Write a Spelling Corrector](https://norvig.com/spell-correct.html)
 - 中文纠错将中文转换成拼音，再利用英文原理进行纠错
 
-## 示例
+## 示例（词库采用《水浒传》）
 ```python
 
 print(correct('松江'))
